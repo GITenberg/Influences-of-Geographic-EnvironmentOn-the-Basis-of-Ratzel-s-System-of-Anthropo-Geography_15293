@@ -1,0 +1,31 @@
+_repo: Influences-of-Geographic-EnvironmentOn-the-Basis-of-Ratzel-s-System-of-Anthropo-Geography_15293
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Semple, Ellen Churchill
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '5982'
+    url: http://www.gutenberg.org/2009/agents/5982
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Churchill_Semple
+description: ''
+gutenberg_bookshelf: Anthropology
+gutenberg_issued: '2005-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15293'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human geography'
+- !lcc 'GF'
+- !lcsh 'Human beings -- Effect of environment on'
+title: 'Influences of Geographic Environment
+
+  On the Basis of Ratzel''s System of Anthropo-Geography'
+url: http://www.gutenberg.org/ebooks/15293
